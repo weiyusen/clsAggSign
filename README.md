@@ -1,1 +1,4 @@
 # clsAggSign
+
+node .\test.js
+
